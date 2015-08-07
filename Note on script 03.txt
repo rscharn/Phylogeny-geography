@@ -1,0 +1,1 @@
+Script 03 requires dependancies for BiogeoBEARS that we currently load in from our local computer. Thus the paths to these files should be set to the local versions in your own directory
